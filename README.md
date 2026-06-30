@@ -165,6 +165,17 @@ Selecting a built-in theme disables custom colours for that showcase style. Sele
 ### 1.0.0
 
 - Initial Book Showcase release.
+| Platform               | Likely compatibility | Notes                                                                                             |
+| ---------------------- | -------------------: | ------------------------------------------------------------------------------------------------- |
+| Android phones/tablets |         Yes — tested | Your current tested platform.                                                                     |
+| Android e-ink devices  |               Likely | Includes Boox, Meebook, Bigme, Likebook, etc., where KOReader runs as an Android app.             |
+| Kindle                 |     Likely, untested | KOReader supports Kindle, but installation requires the relevant Kindle jailbreak/launcher setup. |
+| Kobo                   |     Likely, untested | KOReader supports Kobo devices through Kobo-specific installation packages.                       |
+| PocketBook             |     Likely, untested | KOReader has a PocketBook build.                                                                  |
+| reMarkable             |   Possible, untested | KOReader provides reMarkable builds, but the larger screen may need layout adjustments.           |
+| Cervantes              |   Possible, untested | KOReader officially supports Cervantes.                                                           |
+| Linux desktop          |   Possible, untested | Should load as a plugin, though the showcase is designed mainly for e-ink/touch use.              |
+| Ubuntu Touch           |   Possible, untested | KOReader documentation lists Ubuntu Touch support.                                                |
 
 ## License
 
