@@ -1,3 +1,4 @@
+<img width="1116" height="2480" alt="Screenshot_20260630_122907" src="https://github.com/user-attachments/assets/6a4909b4-8018-4b64-8457-eea0be93764b" />
 # Book Showcase for KOReader
 
 A KOReader plugin that turns a book’s existing metadata and reading data into a customisable book-card popup.
